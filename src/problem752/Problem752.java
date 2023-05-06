@@ -1,3 +1,5 @@
+package problem752;
+
 import java.util.*;
 
 /**
